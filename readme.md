@@ -1,4 +1,4 @@
-# Large Language Models with Semantic Search
+# Pair Programming with LLM (PaLM API)
 
 ![cover](./cover.jpg)
 ![components](./components.png)
